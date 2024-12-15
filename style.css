@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:SteelBlue ;
+
+}
+
+h1{
+    text-align: center;
+    color: SteelBlue;
+    
+}
+
+footer p{
+    background-color: white;
+    border: 3px solid grey;
+}
+
+razdel1{
+    background-color: white;
+    border: 3px solid grey;  
+}
